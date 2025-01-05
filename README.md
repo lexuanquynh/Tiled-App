@@ -5,4 +5,4 @@ Load the tiled image.
 
 ## Preview
 
-![Demo Image](image/demo.png)
+<img src="image/demo.png" alt="Demo Image" width="800">
