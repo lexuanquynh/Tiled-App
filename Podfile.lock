@@ -1,0 +1,22 @@
+PODS:
+  - LDOTiledView (1.0.0)
+  - SDWebImage (5.20.0):
+    - SDWebImage/Core (= 5.20.0)
+  - SDWebImage/Core (5.20.0)
+
+DEPENDENCIES:
+  - LDOTiledView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - LDOTiledView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  LDOTiledView: b7fce1e2e6fba026f45fbfadf6193a437cf5439c
+  SDWebImage: 73c6079366fea25fa4bb9640d5fb58f0893facd8
+
+PODFILE CHECKSUM: f7216f2e1e96fcdd6e6186cc22b95d4bf61055dc
+
+COCOAPODS: 1.16.2
